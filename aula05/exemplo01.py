@@ -46,9 +46,9 @@ print ('\na soma dos impares é:', soma)
 print ('\na quantidade de impares é: ', cont)  
 # mostre a media aritimetica dos impares
 print (f'a media de impares é {soma/cont:.2f}')
-# pode ser assim tb
+# pode ser assim tb \/
 media = soma/cont 
-print ('resultado: ', media)        
+print ('resultado:', media)        
 
 
 
