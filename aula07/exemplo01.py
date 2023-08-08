@@ -54,7 +54,7 @@ print (type(dados))
 
 # mostrar o ultimo item da lista b
 
-print (dados ["lista_b"][3])
+print (dados ["lista_b"][-1]) # o -1 tras o ultimo item da lista
 
 
 
