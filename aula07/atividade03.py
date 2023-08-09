@@ -27,13 +27,13 @@
 	- Mostre apenas o último valor
     - Mostre o dobro de cada valor'''
 
-list = [2,10,30,85,2,6,0,4]
+# list = [2,10,30,85,2,6,0,4]
 
-print ('Terceiro valor:', list[2])
-print ('ultimo valor:', list[-1])
+# print ('Terceiro valor:', list[2])
+# print ('ultimo valor:', list[-1])
  
-list2 = [i*2 for i in list]
-print(list2)
+# list2 = [i*2 for i in list]
+# print(list2)
 
 '''4.	Qual a principal diferença entre uma lista e uma tupla em Python?'''
 
@@ -42,3 +42,19 @@ print(list2)
 '''6.	Descreva quatro exemplos de funções/métodos que podem ser aplicados em um dicionário.'''
 
 '''7.	Crie um script que leia dez números positivos e armazene os dados em uma lista, mostre os dados em ordem crescente, o maior valor informado e menor valor informado.'''
+
+num = []
+
+for i in range(10):
+        numero = float(input(f"Digite o {i+1}º número positivo: "))
+        while numero <= 0:
+            numero = float(input("Número inválido. Digite um número positivo: "))
+        num.append(numero)
+
+num.sort()
+menor_num = num[0]
+maior_num = num[-1]
+
+print("\nNúmeros em ordem crescente:", num)
+print("Menor valor:", menor_num)
+print("Maior valor:", maior_num)
