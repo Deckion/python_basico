@@ -1,0 +1,42 @@
+Nome da pessoa: eu
+Nome da pessoa: tu
+Nome da pessoa: eu
+Nome da pessoa: tu
+Nome da pessoa: 
+Nome da pessoa: ele
+Nome da pessoa: nos
+Nome da pessoa: vos
+Nome da pessoa: eles
+Nome da pessoa: elas
+Nome da pessoa: aqueles
+Nome da pessoa: estes
+1 - Nome da pessoa: oi
+2 - Nome da pessoa: maria
+3 - Nome da pessoa: 
+4 - Nome da pessoa: joao
+5 - Nome da pessoa: carlos
+6 - Nome da pessoa: tati
+7 - Nome da pessoa: juli
+8 - Nome da pessoa: giu
+9 - Nome da pessoa: italo
+10 - Nome da pessoa: marcyo
+1 - Nome da pessoa: giu
+2 - Nome da pessoa: italo
+3 - Nome da pessoa: 
+4 - Nome da pessoa: marcos
+5 - Nome da pessoa: marcio
+6 - Nome da pessoa: james
+7 - Nome da pessoa: joao
+8 - Nome da pessoa: 
+9 - Nome da pessoa: jhon
+10 - Nome da pessoa: carlos
+1 - Nome da pessoa: giu
+2 - Nome da pessoa: otavio
+3 - Nome da pessoa: italo
+4 - Nome da pessoa: marcos
+5 - Nome da pessoa: marcyo
+6 - Nome da pessoa: oi
+7 - Nome da pessoa: oite
+8 - Nome da pessoa: oites
+9 - Nome da pessoa: ju
+10 - Nome da pessoa: ji

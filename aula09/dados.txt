@@ -1,0 +1,7 @@
+Teste de arquivos!
+
+NAO ESQUECER DE SALVAR O ARQUIVO (CTRL+S) OU LIGAR O AUTO SAVE(FILE>AUTO SAVE)
+
+
+Copy path - copia o caminho todo do arquivos
+Copy reltive patch  - copia so o caminho de dentro do arquivo ate depois pasta raiz
